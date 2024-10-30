@@ -1,0 +1,8 @@
+
+.invalid-token {
+	color: red !important;
+}
+
+.valid-token {
+	color: green !important;
+}
